@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BareBonesKestrel": {
+      "commandName": "Project",
+      "launchBrowser": false
+    }
+  }
+}
